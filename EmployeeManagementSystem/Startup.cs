@@ -1,10 +1,5 @@
 ﻿using EmployeeManagementSystem.Models;
-
-using System;
-using System.Collections.Generic;
-
 using Microsoft.EntityFrameworkCore;
-using EmployeeManagementSystem.Models;
 using EmployeeManagementSystem.Repositories;
 
 namespace EmployeeManagementSystem

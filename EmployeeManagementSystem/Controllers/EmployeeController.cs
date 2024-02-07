@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Security.Principal;
-using System.Threading.Tasks;
-using EmployeeManagementSystem.Models;
+﻿using EmployeeManagementSystem.Models;
 using EmployeeManagementSystem.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
